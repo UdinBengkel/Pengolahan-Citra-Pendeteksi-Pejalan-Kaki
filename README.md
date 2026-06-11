@@ -178,9 +178,10 @@ cv2.destroyAllWindows()
 | Info real-time | Tidak ada | Counter pejalan kaki di tiap frame |
 | Keluar | `cv2.waitKey(0)` | Tekan `q` untuk stop |
 
-### Dokumentasi Hasil (Screenshot Frame)
+### Dokumentasi Hasil
 
 <img width="400" height="224" alt="Image" src="https://github.com/user-attachments/assets/bd6d1768-b226-482a-a86a-867c49c4b2e1" />
+
 ---
 
 ## Kesimpulan
