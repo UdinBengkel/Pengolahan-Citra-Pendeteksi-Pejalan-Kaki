@@ -180,22 +180,7 @@ cv2.destroyAllWindows()
 
 ### Dokumentasi Hasil (Screenshot Frame)
 
-Karena output berupa video, berikut dokumentasi dalam bentuk screenshot beberapa frame:
-
-**Frame awal — pejalan kaki terdeteksi:**
-> 📸 *Screenshot frame pertama dengan bounding box*
-> `![Frame Awal](img/frame_awal.png)`
-
-**Frame tengah — posisi berubah:**
-> 📸 *Screenshot frame tengah*
-> `![Frame Tengah](img/frame_tengah.png)`
-
-**Frame akhir:**
-> 📸 *Screenshot frame akhir*
-> `![Frame Akhir](img/frame_akhir.png)`
-
-> 🎬 **Link video hasil:** *(upload ke Google Drive / YouTube, tempel link di sini)*
-
+img src = <img width="400" height="224" alt="Image" src="https://github.com/user-attachments/assets/bd6d1768-b226-482a-a86a-867c49c4b2e1" />
 ---
 
 ## Kesimpulan
