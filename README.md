@@ -1,1 +1,1 @@
-# Pengolahan-Citra---Pendeteksi-Pejalan-Kaki
+# Pengolahan-Citra-Pendeteksi-Pejalan-Kaki
