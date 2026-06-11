@@ -180,7 +180,7 @@ cv2.destroyAllWindows()
 
 ### Dokumentasi Hasil (Screenshot Frame)
 
-img src = <img width="400" height="224" alt="Image" src="https://github.com/user-attachments/assets/bd6d1768-b226-482a-a86a-867c49c4b2e1" />
+<img width="400" height="224" alt="Image" src="https://github.com/user-attachments/assets/bd6d1768-b226-482a-a86a-867c49c4b2e1" />
 ---
 
 ## Kesimpulan
