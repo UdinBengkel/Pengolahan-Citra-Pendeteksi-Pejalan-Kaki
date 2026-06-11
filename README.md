@@ -108,8 +108,7 @@ cv2.destroyAllWindows()
 
 ### Hasil
 
-> 📸 *Letakkan screenshot hasil output di sini*
-> Contoh: `![Hasil Contoh 1](img/output_contoh1.png)`
+<img width="168" height="300" alt="Image" src="https://github.com/user-attachments/assets/414c3bcd-6dbf-4e3d-b145-d6328d7b6349" />
 
 ---
 
